@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Nick Perez",
+    "occupation": "Bay Area based Full Stack Web Developer & Entrepreneur",
+    "description": " \"They say he has skills coding and experience in business&marketing\"",
+    "image": "profilepic.jpg",
+    "bio": "         'Hello World'. You have  caught this guy   in the midst of his career journey equipped with the tools of a full stack web developer and the lessons learned while working in sales and marketing . In his most recent adventure he promoted local government initiatives and got support for them. Prior to that he was seen working for Open Water  contributing to the  development of various code bases for the startups the company was backing . Over the past he has been given the oppurtunity to code for some amazing companies and startups utlimately finding his niche  coding in Javascript and its libaries. He has built everything from  custom API's with node , mobile apps with React Native, and  websites like this one using React. When he wasnt coding on his journey, he was busy performing a variety of roles in sales and marketing . His notes show that he has accumulated over a decades worth of experience within the retail sales and marketing world doing everything from direct sales to store operations to regional management.  Fast forward to today ,  he now finds himself looking for a new path and is currently looking to find a role that allows him to utilize everything he has to offer and feels that a customer success engineer position would be ideal.  ",
+    "contactmessage": "Shoot me an email if you have any questions or know of any oppurtunities  ",
+    "email": "nickperez1285@gmail.com",
+    "phone": "6502742567",
+    "address": {
+      "street": "",
+      "city": "San Francisco",
+      "state": "Ca",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.nickperez.co",
+    "resumedownload": "https://docs.google.com/document/d/16Bg084QyMHhUXWr6LCzfRauq-JnvasV43brfjd0QSPE/edit?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nick.p.delacruz/",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nickperez1",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nick_perez_dlc/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/nickperez1285",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Developer Skills ",
+    "education": [
+      {
+        "school": "University of San Francisco",
+        "degree": "International Business , Minor Computer Science ",
+        "graduated": "Dec 2010",
+        "description": "3.7 GPA "
+      }
+    ],
+    "work": [
+      {
+        "company": "Bay Area Voters",
+        "title": "Petition Circulator  ",
+        "years": "Mar 2022- Jan 2024",
+        "description": "Present petitions for various local measures on the ballot and get signature support  "
+      },
+      {
+        "company": "Open Water",
+        "title": "Full Stack Developer ",
+        "years": "Aug 2020 - Jan 2022",
+        "description": "Develop ecommerce platform for mobile app. Technologies used inlcude : React Native , Node, Aloglia, Firebase, Stripe, Square, Postmates, "
+      },
+      {
+        "company": "Bolero Tech",
+        "title": "Full Stack  Engineer",
+        "years": "Aug 2019 - Aug 2020",
+        "description": "Responsible for all development needs including  an exclusive client networking tool/site . Technolgies used include: Ruby on Rails ,React, Javscript , Node, AWS, HTML , CSS, "
+      },
+      {
+        "company": "Louis Vuitton",
+        "title": "Operations and Sales Associate",
+        "years": "Dec 2017- Jun 2019",
+        "description": "Managed all back-of-house support operations , performed sales duties , and acted as Mandarin translator, "
+      },
+      {
+        "company": "PiccMee",
+        "title": "Full Stack  Developer",
+        "years": "May 2016 - Nov 2017",
+        "description": "Rebuilt social networking mobile app for web. . Technolgies used include: Javascript, Ruby on Rails, AWS "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Redux",
+        "level": "90%"
+      },
+      {
+        "name": "Node",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+
+      {
+        "name": "Ruby",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Car Calc",
+        "category": " Web app that lists cars and lets users select a variety of options showing total costs as each feature is added. Made with React, Redux , React-Dom ",
+        "image": "cars.png",
+        "url": "https://car-sales-nu.now.sh/"
+      },
+      {
+        "title": "React Book Shop",
+        "category": "My attempt to make a  book shopping app similar to Amazon while using my own custom coded API  .Makes use of React, Node, Express, Knex  ",
+        "image": "books.png",
+        "url": "https://react-bookshop.vercel.app/"
+      },
+      {
+        "title": "LESS Fun Site",
+        "category": "Site made to demonstrate  mobile first methods and LESS stylesheets. Site viewable with any device, in any orientation, while maintaining design consistancy ",
+        "image": "dom2.png",
+        "url": "https://www.nickperez.co/projects/LESS/index.html"
+      },
+      {
+        "title": "Node API",
+        "category": "Classic todo list RESTful API with CRUD routes for todos and users. Also integrates authentication with JWT and Bcrypt ",
+        "image": "api.png",
+        "url": "https://www.nickperez.co/projects/LESS/index.html"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
