@@ -100,10 +100,10 @@ class Header extends React.Component {
             </li>
             <li>
               <a
-                className="aerial port "
+                className="smoothscroll"
                 href="https://drive.google.com/drive/folders/0B0OphUTJf5iYfjc4MWlDaXdTVXlZZThVeC1TSFJoRjUtMzBXY1dHS3B1TmpnUHNtQThoT3c?resourcekey=0-BndXevPWou6HRcLbxEx0gQ&usp=drive_link"
               >
-                <h4>Aerial Portfoilio</h4>
+                Aerial Portfolio
               </a>
             </li>
           </ul>

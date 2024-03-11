@@ -203,6 +203,7 @@
 
    /* header social links */
    header .social {
+      display: none;
       margin: 18px 0 24px 0;
       font-size: 24px;
       line-height: 36px;      
@@ -345,7 +346,7 @@
 
    /* mobile navigation
    -------------------------------------------------------------------- */
-   #nav-wrap ul#nav { width: auto; float: none; }
+   #nav-wrap ul#nav { width: 100%; float: none; }
 
    /* header styles
    -------------------------------------------------------------------- */
@@ -362,6 +363,7 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+   header .social { display: none}
 
    /* footer
    ------------------------------------------------------------------------ */
