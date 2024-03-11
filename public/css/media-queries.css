@@ -211,7 +211,11 @@
    header .social li { margin: 0 10px; }
 
     /* scrolldown link */
-   header .scrolldown { display: none; }
+   header .icon-down-circle { font-size: 50%; 
+         vertical-align: baseline;
+         background: transparent;
+   
+   }
 
 
    /* About Section
