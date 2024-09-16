@@ -41,17 +41,27 @@ class Header extends React.Component {
     return (
       <header id="home">
         <nav id="nav-wrap">
-          {/* <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
+          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
 						Show navigation
+            menu
+
 					</a>
 					<a className="mobile-btn" href="#home" title="Hide navigation">
 						Hide navigation
-					</a> */}
-
+					</a>
           <ul
             id="nav"
             className="nav"
           >
+               <li>
+              {/* <li className={this.state.active ? "current" : null} onClick={this.toggleClass}> */}
+              <a
+                className="smoothscroll"
+                href="#home"
+              >
+                Home
+              </a>
+            </li>
             <li>
               <a
                 className="smoothscroll"
@@ -89,15 +99,7 @@ class Header extends React.Component {
                 Contact
               </a>
             </li>
-            <li>
-              {/* <li className={this.state.active ? "current" : null} onClick={this.toggleClass}> */}
-              <a
-                className="smoothscroll"
-                href="#home"
-              >
-                Home
-              </a>
-            </li>
+         
             <li>
               <a
                 // className="smoothscroll"

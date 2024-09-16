@@ -39,7 +39,6 @@ const Slideshow = ({ slides }) => {
 				</Slide>
 				<Slide index={1}>
 					<img className="sliderImage" src={"/images/portfolio/hack3.jpg"} />
-					<p>hack 1</p>
 				</Slide>
 				<Slide index={2}>
 					<img className="sliderImage" src={"/images/portfolio/hack4.jpg"} />

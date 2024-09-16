@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Nick Perez",
-    "occupation": "Bay Area based Full Stack Web Developer & Entrepreneur",
-    "description": " \"They say he has skills coding and experience in business&marketing\"",
+     "occupation": "",
+    "description": "Bay Area based Award Winning Full-Stack Web-Developer and Accomplished Businessman",
     "image": "profilepic.jpg",
-    "bio": "         'Hello World'. You have  caught this guy   in the midst of his career journey equipped with the tools of a full stack web developer and the lessons learned while working in sales and marketing . In his most recent adventure he promoted local government initiatives and got support for them. Prior to that he was seen working for Open Water  contributing to the  development of various code bases for the startups the company was backing . Over the past he has been given the oppurtunity to code for some amazing companies and startups utlimately finding his niche  coding in Javascript and its libaries. He has built everything from  custom API's with node , mobile apps with React Native, and  websites like this one using React. When he wasnt coding on his journey, he was busy performing a variety of roles in sales and marketing . His notes show that he has accumulated over a decades worth of experience within the retail sales and marketing world doing everything from direct sales to store operations to regional management.  Fast forward to today ,  he now finds himself looking for a new path and is currently looking to find a role that allows him to utilize everything he has to offer and feels that a customer success engineer position would be ideal.  ",
+    "bio": "         'Hello World'. You have  caught this guy   in the midst of his career journey as he takes on the world  taking with him his skills as a full stack web developer and the knowledge he acquired throughout his years  working in business and marketing . In his most recent adventure he wrapped up a 7 year project as a customer success engineer for  a V.C. startup that helped contribute to the success of almost a dozen companies before  closing up shop . He is is very happy been able to take part in the . Prior to that he was seen working for Open Water  contributing to the  development of code bases for the various startups the company was backing . Over the past he has been given the oppurtunity to code for some amazing companies and startups utlimately finding his niche  coding in Javascript and its framework libaries. He has built everything from  custom API's with node , mobile apps with React Native, and  websites like this one using React. When he wasnt coding on his journey, he was busy performing a variety of roles in sales and marketing . His notes show that he has accumulated over a decades worth of experience within the retail sales and marketing world doing everything from direct sales to store operations to regional management.  Fast forward to today ,  he now finds himself looking for a new path and is currently looking to find a role that allows him to utilize everything he has to offer with both tech and business expertise .  ",
     "contactmessage": "Shoot me an email if you have any questions or know of any oppurtunities  ",
     "email": "nickperez1285@gmail.com",
     "phone": "6502742567",
@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.nickperez.co",
-    "resumedownload": "https://docs.google.com/document/d/16Bg084QyMHhUXWr6LCzfRauq-JnvasV43brfjd0QSPE/edit?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1Y5y0jHZL0NQPYE2UfxePJRC3ZhY8spBtQyagM4_PoOA/edit?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -52,41 +52,38 @@
     ],
     "work": [
       {
-        "company": "Bay Area Voters",
-        "title": "Petition Circulator  ",
-        "years": "Mar 2022- Jan 2024",
-        "description": "Present petitions for various local measures on the ballot and get signature support  "
+        "company": "Bolero Tech",
+        "title": "Customer Success Engineer  ",
+        "years": " Jul. 2016 -Mar. 2024 ",
+        "description": " Directly supported the integration of  web application software and provided instructional training on their use"
       },
       {
         "company": "Open Water",
         "title": "Full Stack Developer ",
-        "years": "Aug 2020 - Jan 2022",
-        "description": "Develop ecommerce platform for mobile app. Technologies used inlcude : React Native , Node, Aloglia, Firebase, Stripe, Square, Postmates, "
+        "years": "Jun. 2020 - Jun. 2022",
+        "description": "Develop ecommerce platform for mobile apps. Technologies used inlcude : React, React Native , Node, Aloglia, Firebase, Stripe, Square, Postmates, "
       },
       {
-        "company": "Bolero Tech",
-        "title": "Full Stack  Engineer",
-        "years": "Aug 2019 - Aug 2020",
-        "description": "Responsible for all development needs including  an exclusive client networking tool/site . Technolgies used include: Ruby on Rails ,React, Javscript , Node, AWS, HTML , CSS, "
+        "company": "Happy Inspector",
+        "title": "Full Stack  Developer",
+        "years": " Oct. 2018 – May.2020",
+        "description": "Contributed towards development of backend and frontend codebases  rebuilding  and later maintaining company website , mobile app , and internal applications .Technolgies used include: Ruby on Rails ,React, Javscript , Node, AWS, HTML , CSS, "
+      },
+      {
+        "company": "Order Ahead",
+        "title": "Customer Success Engineer",
+        "years": "Jun.  2017 – Oct.  2018",
+        "description": "Assisted clients during onboarding process of company's product within client websites and mobile apps"
       },
       {
         "company": "Louis Vuitton",
-        "title": "Operations and Sales Associate",
+        "title": "Operations Lead",
         "years": "Dec 2017- Jun 2019",
-        "description": "Managed all back-of-house support operations , performed sales duties , and acted as Mandarin translator, "
-      },
-      {
-        "company": "PiccMee",
-        "title": "Full Stack  Developer",
-        "years": "May 2016 - Nov 2017",
-        "description": "Rebuilt social networking mobile app for web. . Technolgies used include: Javascript, Ruby on Rails, AWS "
+        "description": "Managed all back-of-house support operations , performed sales duties , and acted as Mandarin translator "
       }
     ],
     "skills": [
-      {
-        "name": "Git",
-        "level": "90%"
-      },
+     
       {
         "name": "Javascript",
         "level": "90%"
@@ -104,7 +101,7 @@
         "level": "80%"
       },
       {
-        "name": "CSS",
+        "name": "CSS3",
         "level": "75%"
       },
       {
@@ -115,6 +112,14 @@
       {
         "name": "Ruby",
         "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "AWS",
+        "level": "80%"
       }
     ]
   },

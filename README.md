@@ -76,5 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # mysite2024
 # mysite2024
 # mysite2024
-# mysite2024
-# mysite2024

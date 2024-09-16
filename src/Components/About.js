@@ -34,9 +34,8 @@ class About extends Component {
               In his free time he enjoys all sports that include riding boards
               including longboarding , snowboarding , and surfing. If hes not
               out riding his boards hes out taking some aerial photos (,like the
-              one in the background, ) with his drones.* <u><a href="https://drive.google.com/drive/folders/0B0OphUTJf5iYfjc4MWlDaXdTVXlZZThVeC1TSFJoRjUtMzBXY1dHS3B1TmpnUHNtQThoT3c?resourcekey=0-BndXevPWou6HRcLbxEx0gQ&usp=drive_link">Aerial Portfolio </a></u>*
+              one in the background, ) with his drones .
             </p>
-           
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>

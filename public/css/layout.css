@@ -173,6 +173,8 @@ header .scrolldown a {
 /* hide toggle button */
 #nav-wrap > a.mobile-btn {
   display: none;
+  background-color: grey;
+  position: absolute;
 }
 
 ul#nav {
