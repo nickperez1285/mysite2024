@@ -28,7 +28,7 @@ class Contact extends Component {
         </div>
 
         <div className="row">
-          <div className="eight columns">
+          {/* <div className="eight columns">
             <form
               action=""
               method="post"
@@ -105,7 +105,7 @@ class Contact extends Component {
               <i className="fa fa-check"></i>Your message was sent, thank you!
               <br />
             </div>
-          </div>
+          </div> */}
 
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
@@ -114,6 +114,8 @@ class Contact extends Component {
                 {name}
                 <br />
                 <span>{phone}</span>
+                <br />
+                <span>{email}</span>
               </p>
             </div>
 

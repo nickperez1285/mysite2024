@@ -86,11 +86,11 @@ class Header extends React.Component {
                 Projects
               </a>
             </li>
-            {/* <li>
+            <li>
 							<a className="smoothscroll" href="#testimonials">
-								Testimonials
+								Achievements
 							</a>
-						</li> */}
+						</li>
             <li>
               <a
                 className="smoothscroll"
@@ -109,8 +109,9 @@ class Header extends React.Component {
               </a>
             </li>
           </ul>
-
-          <ul className="social">{networks}</ul>
+          {"\n"}
+          <text></text>
+          {/* <ul className="social">{networks}</ul> */}
         </nav>
 
         <div className="row banner">
