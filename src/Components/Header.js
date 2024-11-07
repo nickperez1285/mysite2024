@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React from "react";
 import Slideshow from "./Slideshow";
 import defaultSlides from "./Slides";
 
@@ -42,18 +42,18 @@ class Header extends React.Component {
       <header id="home">
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
-						Show navigation
+            Show navigation
             menu
 
-					</a>
-					<a className="mobile-btn" href="#home" title="Hide navigation">
-						Hide navigation
-					</a>
+          </a>
+          <a className="mobile-btn" href="#home" title="Hide navigation">
+            Hide navigation
+          </a>
           <ul
             id="nav"
             className="nav"
           >
-               <li>
+            <li>
               {/* <li className={this.state.active ? "current" : null} onClick={this.toggleClass}> */}
               <a
                 className="smoothscroll"
@@ -87,10 +87,10 @@ class Header extends React.Component {
               </a>
             </li>
             <li>
-							<a className="smoothscroll" href="#testimonials">
-								Achievements
-							</a>
-						</li>
+              <a className="smoothscroll" href="#testimonials">
+                Achievements
+              </a>
+            </li>
             <li>
               <a
                 className="smoothscroll"
@@ -99,13 +99,13 @@ class Header extends React.Component {
                 Contact
               </a>
             </li>
-         
+
             <li>
               <a
                 // className="smoothscroll"
                 href="https://drive.google.com/drive/folders/0B0OphUTJf5iYfjc4MWlDaXdTVXlZZThVeC1TSFJoRjUtMzBXY1dHS3B1TmpnUHNtQThoT3c?resourcekey=0-BndXevPWou6HRcLbxEx0gQ&usp=drive_link"
               >
-              <u> * Aerial Portfolio *</u>
+                <u> * Aerial Portfolio *</u>
               </a>
             </li>
           </ul>

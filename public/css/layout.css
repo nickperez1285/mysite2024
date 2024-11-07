@@ -943,7 +943,7 @@ call-to-action .button {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 
 .flex-control-paging li a {
@@ -1045,7 +1045,6 @@ call-to-action .button {
   margin: 12px 0;
   color: #ebeeee;
   display: inline-block;
-  float: left;
   width: 26%;
 }
 
